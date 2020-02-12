@@ -1,0 +1,19 @@
+body {
+  background-color: #AFEEEE;
+}
+h1 {
+  color: red;
+  font-size: 48px;
+  font-weight: lighter;
+}
+
+.member {
+  color:green;
+  font-size: 32px;
+}
+
+#leader {
+  text-decoration: underline;
+  font-style: italic;
+  color: orange;
+}

@@ -1,0 +1,13 @@
+.jumbotron {
+  background-color: #E6E6FA;
+  font-family:fantasy;
+  color:gray;
+}
+body {
+  background-color: #D3D3D3;
+}
+img{
+  border: solid darkGray;
+  height: 500px;
+
+}
